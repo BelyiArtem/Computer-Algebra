@@ -78,8 +78,7 @@ namespace Lab_4
 
             Console.ReadLine();
 
-        }
-        
+        }       
 
 
     }
